@@ -1,6 +1,7 @@
 {
     "name": "kk-github/2",    
     "description": "vjezba ko zna koja",
+    "license": "MIT",
     "require": {
         "php" : "7.4"
     },
